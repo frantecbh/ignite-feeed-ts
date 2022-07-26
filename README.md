@@ -1,8 +1,7 @@
-# RocketHelp
+# Rocketseat Ignite - Ignite Feed
 
 ![Cover](./design/cover.png)
 
-# Rocketseat Ignite - Ignite Feed
 
 Ignite da [Rocketseat](https://www.youtube.com/c/RocketSeat). Aplicativo para postar mensagens e comentários.
 Aqui veremos os fundamentos:
